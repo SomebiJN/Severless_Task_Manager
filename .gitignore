@@ -1,6 +1,6 @@
 .terraform/
 infra/.terraform.lock.hcl
 infra/response.json
-infra/terraform.tfstate.backup
-infra/terraform.tfstate
+*.tfstate.backup
+*.tfstate
 .terraform.lock.hcl
